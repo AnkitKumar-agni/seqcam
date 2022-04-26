@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EBG/.idea/EBG.iml" filepath="$PROJECT_DIR$/../EBG/.idea/EBG.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/seqcam.iml" filepath="$PROJECT_DIR$/.idea/seqcam.iml" />
     </modules>
   </component>

@@ -6,7 +6,7 @@ import time
 
 class FaceDetector:
 
-    def __init__(self, minconlevel=0.75):
+    def __init__(self, minconlevel=0.40):
 
         self.minconlevel = minconlevel
         self.mpFaceDetection = mp.solutions.face_detection
